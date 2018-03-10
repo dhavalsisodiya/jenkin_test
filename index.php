@@ -2,4 +2,4 @@
 echo "Hello World";
 echo "<br/>";
 ?>
-<a href="b.php">Click Here</a>
+<a href="test.php">Click Here</a>
