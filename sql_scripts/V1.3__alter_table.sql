@@ -1,0 +1,1 @@
+ALTER TABLE `flyway_migration_test` ADD dob DATETIME NOT NULL AFTER `name`;
