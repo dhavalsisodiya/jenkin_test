@@ -1,0 +1,1 @@
+RENAME TABLE `forms_new`.`vidhyut_migration_test` TO `forms_new`.`flyway_migration_test`;
