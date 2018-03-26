@@ -1,4 +1,4 @@
-ALTER TABLE `bla_bla` ADD `abc` INT (11) DEFAULT 0;
+-- ALTER TABLE `bla_bla` ADD `abc` INT (11) DEFAULT 0;
 
 DELIMITER $$
 
